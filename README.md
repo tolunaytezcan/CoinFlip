@@ -1,5 +1,5 @@
 # CoinFlip
-(EN)
+`(EN)`
 It is a heads or tails React application.  This program will figure out how many heads or tails when we toss the coin. Pictures are shown by random number (Math.random()).
 
 ## Available Scripts
