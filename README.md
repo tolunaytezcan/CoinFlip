@@ -16,7 +16,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 # CoinFlip
-(TR)
+`(TR)`
 Yazı Tura React uygulamasıdır. Bu program parayı attığımız paranın hangi yüzünü geldiğini ve kaçar adet geldiğini bulur. Math.random() fonksiyonuyla gelen rakama göre yazı veya tura resmi ekrana yansıtılır.
 
 Proje dizinindeyken, şu komutları girin:
